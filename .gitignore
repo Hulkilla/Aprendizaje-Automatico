@@ -4,3 +4,5 @@ venv/
 *.txt
 PEC1/uoc20241pec1/
 .venv
+PEC2/.uoc20241pec2/
+PEC2/all-MiniLM-L6-v2/
