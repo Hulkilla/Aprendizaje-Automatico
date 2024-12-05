@@ -10,6 +10,10 @@ El otro objetivo es aprender a preparar los datos, cargando un conjunto de datos
 
 ## PEC 2: Preparación de datos
 
-El objetivo de esta segunda PEC (Prueba de Evaluación Continua) es que el estudiantado desarrolle habilidades en el uso de herramientas de análisis de texto avanzadas para la obtención de información de valor a partir de datos textuales. Todo ello utilizando modelos de lenguaje grandes (LLMs), como MiniLM, para generar embeddings densos y técnicas de aprendizaje no supervisado (K-means, clustering jerárquico, DBSCAN y Mean-Shift) para analizar la composición de los clusters e identificar temáticas comunes dentro de los textos.
+El objetivo de esta segunda PEC es que el estudiantado desarrolle habilidades en el uso de herramientas de análisis de texto avanzadas para la obtención de información de valor a partir de datos textuales. Todo ello utilizando modelos de lenguaje grandes (LLMs), como MiniLM, para generar embeddings densos y técnicas de aprendizaje no supervisado (K-means, clustering jerárquico, DBSCAN y Mean-Shift) para analizar la composición de los clusters e identificar temáticas comunes dentro de los textos.
 
 En esta actividad se aplican algoritmos de clustering y de reducción de dimensionalidad a conjuntos de datos no etiquetados. También conocido como aprendizaje no supervisado.
+
+## PEC 3: Métodos supervisados
+
+El objetivo de esta tercera PEC es que el estudiantado desarrolle habilidades en el uso y compresión de diferentes métodos supervisados. En esta práctica veremos distintos métodos supervisados e intentaremos optimizar diferentes métricas. Veremos cómo los diferentes modelos clasifican las observaciones y con las que obtenemos mayor rendimiento.
